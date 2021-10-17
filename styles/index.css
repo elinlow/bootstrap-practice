@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+}
+
+.carousel-caption {
+    background-color: white;
+    opacity: 0.6;
+    border-radius: 4px;
+}
+
+.dropdown-menu {
+    opacity: 0.6;
+}
